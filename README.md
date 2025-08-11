@@ -5,7 +5,7 @@ This repository contains my personal Vim configuration and documentation resourc
 ## Contents
 
 - **`.vimrc`** - Complete Vim configuration file with custom settings and key mappings
-- **General Cheatsheet** - Comprehensive reference for standard Vim commands and functionality
+- [**General Cheatsheet**](https://github.com/samuelfindenig/vim-config/blob/main/general-vim-cheatsheet.md) - Comprehensive reference for standard Vim commands and functionality
 - **Custom Keybindings and Command Cheatsheet** - Documentation of personalized key mappings and shortcuts and commands
 
 ## Plugin Management
